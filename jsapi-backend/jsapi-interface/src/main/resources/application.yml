@@ -1,0 +1,14 @@
+server:
+  port: 8123
+  servlet:
+    context-path: /api
+
+jsapi:
+  client:
+    accessKey: jason123456
+    secretKey: js123456
+
+
+
+
+
