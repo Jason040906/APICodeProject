@@ -20,10 +20,9 @@
 - MySQL 
 - Nacos
   ### 本地启动
-- MySQL教程
+- MySQL
 - Redis 下载下来直接默认下一步就行
-- RabbitMQ 安装运行教程
-- 配置 IDEA Maven 配置 教程
+- 配置 IDEA Maven 配置 
 - 安装 Redis
   如果想要修改端口号可以把上面的6379修改成对应的端口号
 >  技术栈为springboot+React+Dubbo+Gateway
